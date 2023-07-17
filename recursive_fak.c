@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 	
 	int num;
 
-   printf("Faktöriyelini hesaplamak istediğiniz sayıyı girin: ");
+   printf("FaktÃ¶riyelini hesaplamak istediÃ°iniz sayÃ½yÃ½ girin: ");
    scanf("%d", &num);
 
    printf("%d! = %d\n", num, factorial(num));
